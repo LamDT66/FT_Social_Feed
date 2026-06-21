@@ -44,12 +44,11 @@ Hệ thống chưa triển khai các phần mở rộng như:
 - **MongoDB**
  
 ---
- 
+
 ## 4. Architecture Diagram
- 
-![Alt text](image_url "Optional Title")
-![Markdown Logo](https://example.com/logo.png "Markdown Logo")
- 
+
+![Social Feed Architecture](docs/social-feed-architecture.png)
+
 ---
  
 ## 5. Giải thích diagram
